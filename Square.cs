@@ -52,7 +52,7 @@ public class Square
     /// <param name="b">Новая координата у</param>
     public void Move(int a, int b){
         x=a;
-        y=b; 
+        y=b;  
     }
     /// <summary>
     /// Возврат длины стороны квадрата

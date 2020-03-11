@@ -19,7 +19,7 @@ public class Circle
     public double Radius (){
         return rad;
     }
-
+ 
     public void Center (){
         System.Console.WriteLine(x+" "+y);
     }
