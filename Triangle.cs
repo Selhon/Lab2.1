@@ -6,7 +6,7 @@ public class Triangle
     public Triangle(double a,double b,double c){
         x=a;
         y=b;
-        curr=c; 
+        curr=c;  
     }
     public double Area (){
         return Math.Sqrt(3)/4*curr*curr;

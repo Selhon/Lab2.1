@@ -1,4 +1,4 @@
-using System; 
+using System;  
 public class Square
 {
     double x,y;

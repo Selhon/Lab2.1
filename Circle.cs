@@ -23,6 +23,9 @@ public class Circle
     public void Center (){
         System.Console.WriteLine(x+" "+y);
     }
+    public double Diameter (){
+        return rad*2;
+    }
     public void Move (double a,double b){
         x=a;
         y=b;
