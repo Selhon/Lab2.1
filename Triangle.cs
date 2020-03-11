@@ -6,7 +6,11 @@ public class Triangle
     public Triangle(double a,double b,double c){
         x=a;
         y=b;
+<<<<<<< HEAD
         curr=c;
+=======
+        curr=c;  
+>>>>>>> 045cdfd... Circle-Diameter
     }
     public double Area (){
         return Math.Sqrt(3)/4*curr*curr;

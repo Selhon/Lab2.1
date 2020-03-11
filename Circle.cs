@@ -20,7 +20,16 @@ public class Circle
         return rad;
     }
 
+<<<<<<< HEAD
     
+=======
+    public void Center (){
+        System.Console.WriteLine(x+" "+y);
+    }
+    public double Diameter (){
+        return rad*2;
+    }
+>>>>>>> 045cdfd... Circle-Diameter
     public void Move (double a,double b){
         x=a;
         y=b;

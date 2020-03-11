@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿using System;
+=======
+﻿using System;  
+>>>>>>> 045cdfd... Circle-Diameter
 /*ФИГУРЫ*/
 namespace Lab1
 {
