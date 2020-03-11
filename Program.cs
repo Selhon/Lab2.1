@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿using System;
 =======
 ﻿using System;  
 >>>>>>> 045cdfd... Circle-Diameter
+=======
+﻿﻿using System;  
+>>>>>>> 6049450... Circle-Resize
 /*ФИГУРЫ*/
 namespace Lab1
 {

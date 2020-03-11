@@ -23,7 +23,7 @@ public class Triangle
         System.Console.WriteLine($"{x+curr/2} {y+Math.Sqrt(3)/2*curr}");
         System.Console.WriteLine($"{x+curr} {y}");
     }
-    
+     
     public void Move (int a, int b){
         x=a;
         y=b;
