@@ -26,6 +26,10 @@ public class Circle
     public double Diameter (){
         return rad*2;
     }
+    public void Resize (double r){
+        rad=r;
+    }
+
     public void Move (double a,double b){
         x=a;
         y=b;
