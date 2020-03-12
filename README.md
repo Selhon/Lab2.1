@@ -2,7 +2,7 @@
 ## Geometric figures
 ### Functional:
 #### Classes:
-* Triangl
+* Triangle
   1. Area
   2. Perimeter
   3. Resize
